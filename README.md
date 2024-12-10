@@ -1,2 +1,2 @@
-# Excel-Store-Annual-Analysis-
+# Excel-Store-Annual-Analysis
 Vrinda Store Analysis by using EXCEL
